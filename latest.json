@@ -1,11 +1,11 @@
 ﻿{
     "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYW1lR3FWR2RuaTIwN3hRcWdaUmM2ZmZWN0I3aVhLM2FBM3kzL1FqS0dLZFVtMGkyYkYySHR5V3VPc1ZtQS9kQ2tYVjBsVXRIckxwajYvSGRxRVBkV1Q5NFNocldBUHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0Nzk1NTgwCWZpbGU6SW5maW5pdHkgTWFuYWdlcl8wLjEuNF94NjQtc2V0dXAuZXhlClNBYTdqQ3ZMZ2xGR3FUU2NsZTR6ajZVQ1J0TzJENEhJSW4vTmFwakthVzF5NGVmRjBIelR4THZtVXFhT3FBRXlaeG81L3NmSGNCSUUwUXBWS2lkNkNRPT0K",
-                                             "url":  "https://github.com/infinity-MSFS/infinity-manager-releases/raw/main/releases/v0.1.4/Infinity_Manager_0.1.4.exe"
-                                         }
+                      "windows-nsis-x86_64":  {
+                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYW1lR3FWR2RuaTIwN3hRcWdaUmM2ZmZWN0I3aVhLM2FBM3kzL1FqS0dLZFVtMGkyYkYySHR5V3VPc1ZtQS9kQ2tYVjBsVXRIckxwajYvSGRxRVBkV1Q5NFNocldBUHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0Nzk1NTgwCWZpbGU6SW5maW5pdHkgTWFuYWdlcl8wLjEuNF94NjQtc2V0dXAuZXhlClNBYTdqQ3ZMZ2xGR3FUU2NsZTR6ajZVQ1J0TzJENEhJSW4vTmFwakthVzF5NGVmRjBIelR4THZtVXFhT3FBRXlaeG81L3NmSGNCSUUwUXBWS2lkNkNRPT0K",
+                                                  "url":  "https://github.com/infinity-MSFS/infinity-manager-releases/raw/main/releases/v0.1.4/Infinity_Manager_0.1.4.exe"
+                                              }
                   },
-    "pub_date":  "2025-12-03T22:25:52Z",
+    "pub_date":  "2025-12-03T23:16:04Z",
     "version":  "0.1.4",
     "notes":  "Release 0.1.4"
 }
